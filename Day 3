@@ -1,0 +1,67 @@
+# Day 3 – Role-Based Prompting
+
+## What is Role-Based Prompting?
+
+Role-Based Prompting is a technique where you assign a specific role or persona to the AI before asking a question.
+
+Instead of asking AI a question directly, you first tell it who it should act as, such as a Developer, Founder, HR Manager, Product Manager, or Marketer.
+
+This helps the AI respond with the knowledge, perspective, and expertise associated with that role.
+
+---
+
+## Why It Matters When Using AI Tools Like Claude
+
+Claude can adapt its responses based on the role you assign.
+
+Without a role, Claude provides a general answer.
+
+With a role, Claude focuses on the priorities, language, and decision-making style of that profession, resulting in more relevant and actionable outputs.
+
+---
+
+## How Assigning a Role Changes AI Responses
+
+### Without a Role Prompt
+
+**Prompt:**
+How can I improve my website?
+
+**Response:**
+Improve design, speed, mobile responsiveness, and content quality.
+
+---
+
+### With a Developer Role Prompt
+
+**Prompt:**
+You are a senior web developer. How can I improve my website?
+
+**Response:**
+Optimize Core Web Vitals, reduce JavaScript bundle size, implement lazy loading, improve accessibility, compress images, and use proper SEO structure.
+
+The second response is more technical and practical because the AI is responding as a developer.
+
+---
+
+## Three Practical Benefits of Role-Based Prompting
+
+### 1. More Relevant Answers
+
+The AI responds from a specific professional perspective.
+
+### 2. Better Decision Making
+
+You can compare viewpoints from different experts before making decisions.
+
+### 3. Higher Quality Outputs
+
+Responses become more detailed, structured, and actionable.
+
+---
+
+## Key Learning
+
+Role-Based Prompting transforms AI from a general assistant into a specialized expert. By assigning the right role, you can get significantly better results for coding, business, marketing, design, and problem-solving tasks.
+
+#60DayClaudeChallenge
