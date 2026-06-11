@@ -1,0 +1,44 @@
+Day 2 - Prompt Engineering
+
+What I Learned:-
+
+Today I learned about Prompt Engineering and how important it is when using AI tools like Claude.
+Prompt Engineering means giving clear and detailed instructions so that AI can understand the task properly and provide better results.
+
+Activity:-
+
+First, I used a simple prompt:
+
+Create an image explaining Prompt Engineering.
+
+Observation:
+
+The result was basic and did not contain much detail.
+The output was simple but lacked clear explanations.
+
+Then I used a more detailed prompt with proper instructions and context.
+
+Observation:
+
+The result was much better.
+The explanation was clearer, more detailed, and easier to understand.
+The output looked more professional and useful.
+
+Example:-
+
+Weak Prompt:
+Make a website.
+
+Improved Prompt:
+Act as a senior frontend developer and create a responsive portfolio website using HTML, CSS, and JavaScript.
+Include a hero section, projects section, contact form, and modern design.
+
+Key Takeaways:-
+
+- Clear prompts produce better results.
+- Context helps AI understand the task.
+- Detailed instructions improve output quality.
+- Better prompts save time and effort.
+
+Conclusion:-
+  This activity helped me understand that the quality of the response depends on the quality of the prompt. Even small improvements in a prompt can make a big difference in the final output.
